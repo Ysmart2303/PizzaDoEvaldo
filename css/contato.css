@@ -116,13 +116,9 @@ input, textarea{
     cursor:pointer;
 }
 
-/*.btn{
-    width:100%;
-    padding:10px;
-    background:#d62828;
-    color:white;
-    border:none;
-    border-radius:5px;
-    font-size:16px;
-    cursor:pointer;
-}*/
+footer{
+    text-align:center;
+    background-color:brown;
+    padding:20px;
+    margin-top:20px;
+}
