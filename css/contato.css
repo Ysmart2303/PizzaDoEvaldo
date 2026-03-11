@@ -116,9 +116,19 @@ input, textarea{
     cursor:pointer;
 }
 
+
+
 footer{
     text-align:center;
     background-color:brown;
     padding:20px;
     margin-top:20px;
+}
+
+/* logos*/
+
+.logos{
+    width:20px;
+    height:20px;
+    margin-right:5px;
 }
