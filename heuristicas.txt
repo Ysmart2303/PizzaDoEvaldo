@@ -1,0 +1,13 @@
+#1 texto sublinhado de cada pagina (home, cardapio, contato e login)
+#2 palavra "promoções" na aba home
+#3 botão "cancelar pedido" na aba de contato
+#4 paleta de cores padronizadas em todo o site
+#5 frase "email@gamil.com" por exemplo, evitando erros em todo o formulario e login
+#6 aba de informações no "FAQ" 
+#7 uso de imagens facilmente reconhecidas pelo usuario
+#8 informações sobre a pizzaria caso o cliente queira entrar em contato
+#9 feedback na aba de contatos pat dar opniões ou fazer pedidos
+#10 padronização entre as paginas
+#11 botão "limpar formulario" em caso de erro na aba login 
+
+Não consegui colocar tudo :(
