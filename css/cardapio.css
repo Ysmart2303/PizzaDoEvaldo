@@ -94,17 +94,16 @@ nav{
 
 /*produtos*/
 
-/*.container{
+.container{
     display:flex;
     flex-direction: column;
+    text-align: center;        
     justify-content:space-around;
     gap:30px;
     flex-wrap:wrap;
-}*/
-
-.produto{
-    text-align:;
 }
+
+
 
 .nome{
     font-size: 1.5em;
