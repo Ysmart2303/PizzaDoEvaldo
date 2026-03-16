@@ -121,7 +121,8 @@ img{
 .preco{
    background-color: yellow;
    color:red;
-   font-size: 30px;
+   font-size: 1.2em;
+    font-weight:bold;
    border-radius:10px;
    display: inline-block;
    padding: 5px 10px;  
